@@ -1,7 +1,7 @@
 # Agrinho_-_3Ano
 
 - ### Olá, sou o Bruno Mori
-- ### Aluno Bruno Issao Mori
+- ### Professor Rafael Assis Santos
 - ### Embaixadora do NRE - Luzia Siscati
 - ### Projeto Agrinho 2024
 - ### Colégio Estadual Rio Branco
